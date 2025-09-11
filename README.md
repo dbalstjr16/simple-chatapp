@@ -1,6 +1,7 @@
 ## 💬 Simple Chat Application
 
 <img src="assets/0-0.png">
+<img src="assets/0-1.png">
 
 ### Demo 1 (Screenshots)
 <img src="assets/1-1.png">
